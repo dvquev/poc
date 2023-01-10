@@ -1,2 +1,1 @@
-# poc
-Proof of concepts
+# Proofs of concept
