@@ -2,7 +2,7 @@
 
 Minimal proof of concept about blockchain and inmutability interactive way in a shared sheet document.
 
-![example](https://media.licdn.com/dms/image/D4E22AQG5Gst57tJldw/feedshare-shrink_1280/0/1667246614311?e=1676505600&v=beta&t=GC_t-ItODZHGB7r97huIo_PnIefUv6gq83di3bE-xNY)
+![example](https://s9.gifyu.com/images/1_RwPaBWwfPMiox8e_3YdrQQ.gif)
 Steps:
 1. Copy sheet to google sheets.
 2. Copy scripts to App Scripts
